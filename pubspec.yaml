@@ -1,0 +1,61 @@
+name: mahajong
+description: A new Flutter project.
+
+publish_to: none
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  another_flushbar: ^1.12.30
+  flutter_svg:
+  carousel_slider: ^4.2.1
+  intl: ^0.19.0
+  shared_preferences:
+  provider: ^6.1.1
+  fluttertoast: ^8.2.4
+  dio: ^5.4.0
+  flutter_widget_from_html:
+  flutter_share: ^2.0.0
+  url_launcher:
+  webview_flutter: ^2.0.13
+  image_picker: ^1.0.4
+  just_audio: ^0.9.36
+  audioplayers:
+  connectivity_plus: ^5.0.2
+  add_to_cart_animation: ^2.0.3
+  dashed_color_circle: ^0.0.2
+  flutter_flip_card: ^0.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/music/
+    - assets/images/
+    - assets/person/
+    - assets/slider/
+    - assets/category/
+    - assets/aviator/
+    - assets/dragontiger/
+    - assets/cards/
+    - assets/sound/
+    - assets/Plinko/
+
